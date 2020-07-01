@@ -104,5 +104,15 @@ Now that the conflict is gone, you will be brought back to the pull request scre
 
 Click `Merge Pull Request`; this will merge your changes to the master branch. To double check your progress, go back to the master branch and check if your case switch statement is in Test1.java. Good job, you've successfully fixed a merge conflict and merged your feature into the master branch! Your coworker has been fired from your calculator company for messing with the master branch directly.
 
+|                        Task                       |    Points    |
+|  ------------------------------------------------ |   ---------  |
+| **If-else** statement is used (in master branch)  |       6      |
+| **Add** case in basicCalculator included          |       1      |
+| **Subtract** case in basicCalculator included     |       1      |
+| **Multiply** case in basicCalculator included     |       1      |
+| **Divide** case in basicCalculator included       |       1      |
+| Commit history has at least ONE merge             |      10      |
+| **Total**                                         |      20      |
 
-//add a temporary line here to create merge conflict
+## Reminder
+As always, feel free to ask questions on piazza, in pso, and/or office hours. Good luck!

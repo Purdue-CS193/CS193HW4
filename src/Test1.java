@@ -24,7 +24,7 @@ public class Test1 {
                 if (num2 == 0) {
                     System.out.println("Can't divide by 0");
                 } else {
-                    result = (double)num1 / (double)num2;
+                    result = ((double)num1) / num2;
                 }
                 break;
         }
